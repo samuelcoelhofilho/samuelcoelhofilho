@@ -10,7 +10,7 @@ Sou uma pessoa muito **flexivel** e que gosta muito de aprender coisas novas.
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/samuelcoelhofilho">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/mlz77k">
